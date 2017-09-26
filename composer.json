@@ -1,0 +1,10 @@
+{
+  "autoload":{
+    "psr-4":{
+      "UserSettingsOptions\\" : ""
+    }
+  },
+  "require": {
+    "monolog/monolog": "^1.23"
+  }
+}
